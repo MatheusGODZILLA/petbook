@@ -1,5 +1,4 @@
 body{
-    background-color: #FFFFFF;
     margin: 0;
     padding: 0;
     font-family: 'Times New Roman', Times, serif;
@@ -40,12 +39,12 @@ h2{
     text-align: center;
     border-top: 1px solid #c5c3c3;
     align-items: center;
-    justify-content: space-evenly;
+    justify-content: space-between;
+    gap: 30px;
 }
 
 .sobre, .favoritos{
     margin-top: 20px;
-    width: 40%;
 }
 
 footer{
